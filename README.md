@@ -12,8 +12,6 @@ Cada atividade representa um problema clássico de lógica, abordando conceitos 
 - Entrada e saída de dados
 - Algoritmos matemáticos básicos
 
-> *Obs.: Substitua `.ext` pela linguagem de programação utilizada (ex.: `.c`, `.py`, `.js`, etc.).*
-
 Cada pasta contém:
 - **Fluxograma** da atividade (`fluxograma.png`)
 - **Código-fonte** correspondente (`atividade-XX.ext`)
